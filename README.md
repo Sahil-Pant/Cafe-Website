@@ -65,11 +65,5 @@ Cafe-Website/
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](https://github.com/Sahil-Pant/Cafe-Website/blob/main/LICENSE).
-
----
-
 > ⭐ If you like this project, consider giving it a star — it helps!
 
