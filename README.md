@@ -62,11 +62,6 @@ Cafe-Website/
 
 ---
 
-## 🧑‍💻 Author
-
-**Sahil Pant**  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=flat)](https://github.com/Sahil-Pant)  
-🌐 [Portfolio Website](https://sahilpant.dev)
 
 ---
 
