@@ -1,9 +1,5 @@
 # ☕ Bhaichaara Cafe – Static Website
 
-[![GitHub Stars](https://img.shields.io/github/stars/Sahil-Pant/Cafe-Website?style=social)](https://github.com/Sahil-Pant/Cafe-Website/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Sahil-Pant/Cafe-Website?style=social)](https://github.com/Sahil-Pant/Cafe-Website/forks)
-[![GitHub License](https://img.shields.io/github/license/Sahil-Pant/Cafe-Website?style=flat-square)](https://github.com/Sahil-Pant/Cafe-Website/blob/main/LICENSE)
-![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
 
 ---
 
