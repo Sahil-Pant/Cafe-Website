@@ -31,4 +31,15 @@
 ---
 
 ## 🚀 Project Structure
+Cafe-Website/
 
+├── index.html<br>
+├── auth.html
+├── checkout.html
+├── style.css
+├── auth.css
+├── checkout.css
+├── main.js
+├── auth.js
+├── checkout.js
+└── assets/
