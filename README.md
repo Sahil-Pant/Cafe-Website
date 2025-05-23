@@ -34,12 +34,47 @@
 Cafe-Website/
 
 ├── index.html<br>
-├── auth.html
-├── checkout.html
-├── style.css
-├── auth.css
-├── checkout.css
-├── main.js
-├── auth.js
-├── checkout.js
-└── assets/
+├── auth.html<br>
+├── checkout.html<br>
+├── style.css<br>
+├── auth.css<br>
+├── checkout.css<br>
+├── main.js<br>
+├── auth.js<br>
+├── checkout.js<br>
+└── assets/<br>
+
+
+---
+
+## 🔮 Future Improvements
+
+- 📱 Mobile responsiveness
+- 🔒 Real form validation and backend integration
+- 🌀 Smooth animations with GSAP
+- 🎯 Improved accessibility and SEO
+
+---
+
+## 📌 About
+
+**Bhaichaara Cafe** is a fictional cafe website project created to demonstrate frontend development skills, UI design, and multi-page structure using vanilla HTML, CSS, and JS.
+
+---
+
+## 🧑‍💻 Author
+
+**Sahil Pant**  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=flat)](https://github.com/Sahil-Pant)  
+🌐 [Portfolio Website](https://sahilpant.dev)
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](https://github.com/Sahil-Pant/Cafe-Website/blob/main/LICENSE).
+
+---
+
+> ⭐ If you like this project, consider giving it a star — it helps!
+
